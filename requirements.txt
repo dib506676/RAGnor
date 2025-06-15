@@ -7,3 +7,4 @@ langchain-google-genai
 openai
 google-generativeai
 faiss-cpu
+pypdf
