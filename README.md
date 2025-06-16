@@ -58,7 +58,6 @@ streamlit run app.py
 ## Frontend
 
 <img width="1454" alt="Screenshot 2025-06-16 at 2 12 28 PM" src="https://github.com/user-attachments/assets/a1fae11b-78e2-4d2d-8713-ef1fbcc40867" />
-<img width="1454" alt="Screenshot 2025-06-16 at 2 12 28 PM" src="https://github.com/user-attachments/assets/a1fae11b-78e2-4d2d-8713-ef1fbcc40867" />
 
 ## 📁 Project Structure
 
