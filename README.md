@@ -75,15 +75,9 @@ streamlit run app.py
 
 * **Frontend**: Streamlit
 * **Backend**: Python, Google API (MakerSuite)
-* **PDF Parsing**: PyMuPDF / pdfplumber
+* **PDF Parsing**: PyPDF2 / pdfplumber
 * **LLM Integration**: Google MakerSuite or similar
 * **Vector DB**: FASSI
----
-
-## 🚑 License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 ## 📢 Contact
